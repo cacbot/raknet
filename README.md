@@ -1,5 +1,7 @@
 Chocosploit RakNet Script (Desync)
 
--- made by hotdog14156v2
+-- made by realsakpot
 
 enjoy ig....
+
+discontinued -- not sure if this still works
